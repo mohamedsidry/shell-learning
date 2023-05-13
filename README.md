@@ -16,3 +16,8 @@
 
 
 - prints the max value of pid .
+
+
+## 0.av.c
+
+- prints all arguments passed to main function .
