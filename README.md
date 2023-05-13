@@ -21,3 +21,8 @@
 ## 0.av.c
 
 - prints all arguments passed to main function .
+
+## 1.read_line.c
+
+- reads from std input and print what was typed back .
+
