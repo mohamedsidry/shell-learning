@@ -6,4 +6,9 @@
 
 
 
-# PID & PPID 
+# PID & PPID
+
+
+## 0.getppid.c
+
+- prints the perent process id .
